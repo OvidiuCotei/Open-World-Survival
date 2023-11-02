@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "key": "CONTINUE",
+      "value": "SIGUE ADELANTE"
+    },
+    {
+      "key": "PLAY_GAME",
+      "value": "JUGAR"
+    },
+    {
+      "key": "SETTINGS",
+      "value": "AJUSTES"
+    },
+    {
+      "key": "QUIT",
+      "value": "DEJAR"
+    },
+    {
+      "key": "QUIT_DIALOG_FOOTER",
+      "value": "SEGURO QUE QUIERES SALIR"
+    },
+    {
+      "key": "QUIT_DIALOG_NO",
+      "value": "NO"
+    },
+    {
+      "key": "QUIT_DIALOG_YES",
+      "value": "SÍ"
+    },
+    {
+      "key": "TAB_VIDEO",
+      "value": "VIDEO"
+    },
+    {
+      "key": "TAB_AUDIO",
+      "value": "AUDIO"
+    },
+    {
+      "key": "TAB_CONTROLS",
+      "value": "CONTROLS"
+    },
+    {
+      "key": "TAB_OTHER",
+      "value": "OTRA"
+    },
+    {
+      "key": "V_SYNC",
+      "value": "VSYNC"
+    },
+    {
+      "key": "QUALITY",
+      "value": "CALIDAD"
+    },
+    {
+      "key": "WINDOW_MODE",
+      "value": "MODO VENTANA"
+    },
+    {
+      "key": "RESOLUTION",
+      "value": "RESOLUCIÓN"
+    },
+    {
+      "key": "MASTER_VOLUME",
+      "value": "VOLUMEN PRINCIPAL"
+    },
+    {
+      "key": "MUSIC_VOLUME",
+      "value": "VOLUMEN DE LA MÚSICA"
+    },
+    {
+      "key": "AMBIENT_VOLUME",
+      "value": "VOLUMEN AMBIENTE"
+    },
+    {
+      "key": "SOUNT_FX_VOLUME",
+      "value": "VOLUMEN SONIDO FX"
+    },
+    {
+      "key": "LANGUAGE",
+      "value": "IDIOMA"
+    },
+    {
+      "key": "BUTTON_SETTINGS_BACK",
+      "value": "ESPALDA"
+    },
+    {
+      "key": "TIPS_01",
+      "value": "Lorem Ipsum es simplemente texto de relleno de la industria de la impresión y la composición tipográfica."
+    },
+    {
+      "key": "TIPS_02",
+      "value": "Ha sobrevivido no solo a cinco siglos, sino también al salto a la composición tipográfica electrónica, permaneciendo esencialmente sin cambios."
+    },
+    {
+      "key": "TIPS_03",
+      "value": "Contrariamente a la creencia popular, Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raíces en una pieza de la literatura latina clásica del 45 a. C., por lo que tiene más de 2000 años. Richard McClintock."
+    }
+  ]
+}

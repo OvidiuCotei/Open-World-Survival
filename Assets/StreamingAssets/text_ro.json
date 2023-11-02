@@ -1,0 +1,216 @@
+{
+  "items": [
+    {
+      "key": "SAVE_GAME",
+      "value": "SALVEAZĂ JOCUL"
+    },
+    {
+      "key": "OVERRIDE_SAVE_DIALOG_FOOTER",
+      "value": "DORIȚI SĂ ÎNLOCUȚI ACEASTĂ SALVARE?"
+    },
+    {
+      "key": "LOAD_GAME",
+      "value": "ÎNCARCĂ JOCUL"
+    },
+    {
+      "key": "CONTINUE",
+      "value": "CONTINUĂ"
+    },
+    {
+      "key": "PLAY_GAME",
+      "value": "JOACĂ"
+    },
+    {
+      "key": "SETTINGS",
+      "value": "SETĂRI"
+    },
+    {
+      "key": "QUIT",
+      "value": "IEȘIRE"
+    },
+    {
+      "key": "QUIT_DIALOG_FOOTER",
+      "value": "EȘTI SIGUR CĂ VREI SĂ RENUNȚI"
+    },
+    {
+      "key": "QUIT_DIALOG_NO",
+      "value": "NU"
+    },
+    {
+      "key": "QUIT_DIALOG_YES",
+      "value": "DA"
+    },
+    {
+      "key": "TAB_VIDEO",
+      "value": "VIDEO"
+    },
+    {
+      "key": "TAB_AUDIO",
+      "value": "AUDIO"
+    },
+    {
+      "key": "TAB_CONTROLS",
+      "value": "CONTROALE"
+    },
+    {
+      "key": "TAB_OTHER",
+      "value": "ALTELE"
+    },
+    {
+      "key": "V_SYNC",
+      "value": "VSYNC"
+    },
+    {
+      "key": "QUALITY",
+      "value": "CALITATE"
+    },
+    {
+      "key": "WINDOW_MODE",
+      "value": "MOD FEREASTRĂ"
+    },
+    {
+      "key": "RESOLUTION",
+      "value": "REZOLUȚIE"
+    },
+    {
+      "key": "MASTER_VOLUME",
+      "value": "VOLUM PRINCIPAL"
+    },
+    {
+      "key": "MUSIC_VOLUME",
+      "value": "VOLUM MUZICĂ"
+    },
+    {
+      "key": "AMBIENT_VOLUME",
+      "value": "VOLUM AMBIENTAL"
+    },
+    {
+      "key": "SOUNT_FX_VOLUME",
+      "value": "VOLUM SUNET FX"
+    },
+    {
+      "key": "LANGUAGE",
+      "value": "LIMBA"
+    },
+    {
+      "key": "BUTTON_SETTINGS_BACK",
+      "value": "ÎNAPOI"
+    },
+    {
+      "key": "TIPS_01",
+      "value": "Lorem Ipsum este pur și simplu un text fals al industriei de tipărire și de tipărire."
+    },
+    {
+      "key": "TIPS_02",
+      "value": "A supraviețuit nu numai cinci secole, ci și saltului în compunerea electronică, rămânând în esență neschimbat."
+    },
+    {
+      "key": "TIPS_03",
+      "value": "Contrar credinței populare, Lorem Ipsum nu este un simplu text aleatoriu. Are rădăcini într-o piesă din literatura clasică latină din anul 45 î.Hr., ceea ce o face cu o vechime de peste 2000 de ani. Richard McClintock."
+    },
+    {
+      "key": "TREE_NAME",
+      "value": "Copac"
+    },
+    {
+      "key": "STONE_HATCHET_NAME",
+      "value": "Secure de piatră"
+    },
+    {
+      "key": "STONE_HATCHET_DESCRIPTION",
+      "value": "O unealtă ascuțită."
+    },
+    {
+      "key": "STONE_HATCHET_FUNCTIONALITY",
+      "value": "<color=\"blue\">CLICK DREAPTA</color> sau <color=\"blue\">TRAGE</color>  într-un slot rapid pentru echipare."
+    },
+    {
+      "key": "LOG_NAME",
+      "value": "Lemn"
+    },
+    {
+      "key": "LOG_DESCRIPTION",
+      "value": "Această bucată de lemn brut pare doar grea, este de fapt ușoară și poate fi transportată cu ușurință."
+    },
+    {
+      "key": "LOG_FUNCTIONALITY",
+      "value": "Ca material comun și de bază, poate fi folosit."
+    },
+    {
+      "key": "STONE_NAME",
+      "value": "Piatră"
+    },
+    {
+      "key": "STONE_DESCRIPTION",
+      "value": "O piatră mică."
+    },
+    {
+      "key": "STONE_FUNCTIONALITY",
+      "value": "Ca material comun și de bază, poate fi folosit."
+    },
+    {
+      "key": "MASHROOM_NAME",
+      "value": "Ciupercă"
+    },
+    {
+      "key": "MASHROOM_DESCRIPTION",
+      "value": "O ciupercă mică."
+    },
+    {
+      "key": "MASHROOM_FUNCTIONALITY",
+      "value": "Ca material comun și de bază, poate fi folosit."
+    },
+    {
+      "key": "PLANK_NAME",
+      "value": "Scândură"
+    },
+    {
+      "key": "PLANK_DESCRIPTION",
+      "value": "O bucată de scândură."
+    },
+    {
+      "key": "PLANK_FUNCTIONALITY",
+      "value": "Ca material comun și de bază, poate fi folosit."
+    },
+    {
+      "key": "STICK_NAME",
+      "value": "Băț"
+    },
+    {
+      "key": "STICK_DESCRIPTION",
+      "value": "O bucată de băț."
+    },
+    {
+      "key": "STICK_FUNCTIONALITY",
+      "value": "Ca material comun și de bază, poate fi folosit."
+    },
+    {
+      "key": "WALL_NAME",
+      "value": "Perete"
+    },
+    {
+      "key": "WALL_DESCRIPTION",
+      "value": "O bucată de perete."
+    },
+    {
+      "key": "WALL_FUNCTIONALITY",
+      "value": "<color='red'>CLICK DREAPTA</color> pentru a poziționa elementul."
+    },
+    {
+      "key": "FOUNDATION_NAME",
+      "value": "Fundație"
+    },
+    {
+      "key": "FOUNDATION_DESCRIPTION",
+      "value": "O bucată de fundație."
+    },
+    {
+      "key": "FOUNDATION_FUNCTIONALITY",
+      "value": "Ca material comun și de bază, poate fi folosit."
+    },
+    {
+      "key": "NPC_01",
+      "value": "Vorbește"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "key": "CONTINUE",
+      "value": "CONTINUE"
+    },
+    {
+      "key": "PLAY_GAME",
+      "value": "JUER"
+    },
+    {
+      "key": "SETTINGS",
+      "value": "SETTINGS"
+    },
+    {
+      "key": "QUIT",
+      "value": "QUITTER"
+    },
+    {
+      "key": "QUIT_DIALOG_FOOTER",
+      "value": "ÊTES-VOUS SÛR DE VOULOIR QUITTER"
+    },
+    {
+      "key": "QUIT_DIALOG_NO",
+      "value": "NON"
+    },
+    {
+      "key": "QUIT_DIALOG_YES",
+      "value": "OUI"
+    },
+    {
+      "key": "TAB_VIDEO",
+      "value": "VIDÉO"
+    },
+    {
+      "key": "TAB_AUDIO",
+      "value": "L'AUDIO"
+    },
+    {
+      "key": "TAB_CONTROLS",
+      "value": "LES CONTRÔLES"
+    },
+    {
+      "key": "TAB_OTHER",
+      "value": "AUTRE"
+    },
+    {
+      "key": "V_SYNC",
+      "value": "VSYNC"
+    },
+    {
+      "key": "QUALITY",
+      "value": "QUALITÉ"
+    },
+    {
+      "key": "WINDOW_MODE",
+      "value": "MODE FENÊTRE"
+    },
+    {
+      "key": "RESOLUTION",
+      "value": "RÉSOLUTION"
+    },
+    {
+      "key": "MASTER_VOLUME",
+      "value": "VOLUME PRINCIPAL"
+    },
+    {
+      "key": "MUSIC_VOLUME",
+      "value": "VOLUME DE LA MUSIQUE"
+    },
+    {
+      "key": "AMBIENT_VOLUME",
+      "value": "VOLUME AMBIANT"
+    },
+    {
+      "key": "SOUNT_FX_VOLUME",
+      "value": "VOLUME SONORE FX"
+    },
+    {
+      "key": "LANGUAGE",
+      "value": "LANGUE"
+    },
+    {
+      "key": "BUTTON_SETTINGS_BACK",
+      "value": "ARRIÈRE"
+    },
+    {
+      "key": "TIPS_01",
+      "value": "Lorem Ipsum es simplemente texto de relleno de la industria de la impresión y la composición tipográfica."
+    },
+    {
+      "key": "TIPS_02",
+      "value": "Ha sobrevivido no solo a cinco siglos, sino también al salto a la composición tipográfica electrónica, permaneciendo esencialmente sin cambios."
+    },
+    {
+      "key": "TIPS_03",
+      "value": "Contrariamente a la creencia popular, Lorem Ipsum no es simplemente texto aleatorio. Tiene sus raíces en una pieza de la literatura latina clásica del 45 a. C., por lo que tiene más de 2000 años. Richard McClintock."
+    }
+  ]
+}
